@@ -1,5 +1,5 @@
 # Weather-App
 Weather App using Openweathermap API | Javascript 
 
-#Demo: 
+# Demo: 
 https://abdelrahmanwaliid.github.io/Weather-App/
